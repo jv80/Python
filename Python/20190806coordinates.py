@@ -1,4 +1,4 @@
-#20190806 Convert cartesian coordenates to polars coordinates and viceversa
+#20190806 Convert cartesian coordinates to polars coordinates and viceversa
 import math
 print ('This program converts cartesian coordinates in polars coordinates and viceversa')
 while input !=0:
